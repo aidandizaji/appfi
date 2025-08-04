@@ -18,7 +18,7 @@ export default function LandingPage() {
   }, [])
 
   const handleBuild = () => {
-    window.location.href = "/builder"
+    window.location.href = "/login"
   }
 
   return (
